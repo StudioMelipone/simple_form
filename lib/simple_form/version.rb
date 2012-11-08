@@ -1,3 +1,3 @@
 module SimpleForm
-  VERSION = "2.0.2.dev".freeze
+  VERSION = "2.0.3.dev".freeze
 end
